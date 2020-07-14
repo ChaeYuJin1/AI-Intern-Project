@@ -1,0 +1,9 @@
+/home/pirl/Documents/darknet/darknet/libdark.so
+/home/pirl/Documents/darknet/darknet/include/darknet/darknet.h
+/home/pirl/Documents/darknet/darknet/include/darknet/yolo_v2_class.hpp
+/home/pirl/Documents/darknet/darknet/uselib
+/home/pirl/Documents/darknet/darknet/darknet
+/home/pirl/Documents/darknet/darknet/share/darknet/DarknetTargets.cmake
+/home/pirl/Documents/darknet/darknet/share/darknet/DarknetTargets-noconfig.cmake
+/home/pirl/Documents/darknet/darknet/share/darknet/DarknetConfig.cmake
+/home/pirl/Documents/darknet/darknet/share/darknet/DarknetConfigVersion.cmake

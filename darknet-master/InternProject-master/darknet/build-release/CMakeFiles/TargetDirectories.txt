@@ -1,0 +1,9 @@
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/install/strip.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/install/local.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/install.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/uselib.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/edit_cache.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/rebuild_cache.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/darknet.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/dark.dir
+/home/pirl/Documents/darknet/darknet/build-release/CMakeFiles/list_install_components.dir
